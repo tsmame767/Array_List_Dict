@@ -1,0 +1,5 @@
+D:\c#\CS_Practice\Assignment2\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Assignment2\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Assignment2\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+D:\c#\CS_Practice\Assignment2\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Assignment2\List\obj\Debug\net6.0\List.sourcelink.json

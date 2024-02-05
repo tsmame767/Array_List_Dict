@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\Assignment2\list\bin\Debug\net8.0\list.exe
+D:\c#\CS_Practice\Assignment2\list\bin\Debug\net8.0\list.deps.json
+D:\c#\CS_Practice\Assignment2\list\bin\Debug\net8.0\list.runtimeconfig.json
+D:\c#\CS_Practice\Assignment2\list\bin\Debug\net8.0\list.dll
+D:\c#\CS_Practice\Assignment2\list\bin\Debug\net8.0\list.pdb
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.sourcelink.json
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.dll
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\refint\list.dll
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.pdb
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\list.genruntimeconfig.cache
+D:\c#\CS_Practice\Assignment2\list\obj\Debug\net8.0\ref\list.dll
