@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\Assignment2\Array\prog1\bin\Debug\net6.0\prog1.exe
+D:\c#\CS_Practice\Assignment2\Array\prog1\bin\Debug\net6.0\prog1.deps.json
+D:\c#\CS_Practice\Assignment2\Array\prog1\bin\Debug\net6.0\prog1.runtimeconfig.json
+D:\c#\CS_Practice\Assignment2\Array\prog1\bin\Debug\net6.0\prog1.dll
+D:\c#\CS_Practice\Assignment2\Array\prog1\bin\Debug\net6.0\prog1.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.AssemblyInfo.cs
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.sourcelink.json
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.dll
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\refint\prog1.dll
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\prog1.genruntimeconfig.cache
+D:\c#\CS_Practice\Assignment2\Array\prog1\obj\Debug\net6.0\ref\prog1.dll

@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\Assignment2\Array\prog3\bin\Debug\net8.0\prog3.exe
+D:\c#\CS_Practice\Assignment2\Array\prog3\bin\Debug\net8.0\prog3.deps.json
+D:\c#\CS_Practice\Assignment2\Array\prog3\bin\Debug\net8.0\prog3.runtimeconfig.json
+D:\c#\CS_Practice\Assignment2\Array\prog3\bin\Debug\net8.0\prog3.dll
+D:\c#\CS_Practice\Assignment2\Array\prog3\bin\Debug\net8.0\prog3.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.AssemblyInfo.cs
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.sourcelink.json
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.dll
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\refint\prog3.dll
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\prog3.genruntimeconfig.cache
+D:\c#\CS_Practice\Assignment2\Array\prog3\obj\Debug\net8.0\ref\prog3.dll

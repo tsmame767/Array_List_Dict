@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\Assignment2\Array\prog5\bin\Debug\net8.0\prog5.exe
+D:\c#\CS_Practice\Assignment2\Array\prog5\bin\Debug\net8.0\prog5.deps.json
+D:\c#\CS_Practice\Assignment2\Array\prog5\bin\Debug\net8.0\prog5.runtimeconfig.json
+D:\c#\CS_Practice\Assignment2\Array\prog5\bin\Debug\net8.0\prog5.dll
+D:\c#\CS_Practice\Assignment2\Array\prog5\bin\Debug\net8.0\prog5.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.AssemblyInfo.cs
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.sourcelink.json
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.dll
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\refint\prog5.dll
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.pdb
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\prog5.genruntimeconfig.cache
+D:\c#\CS_Practice\Assignment2\Array\prog5\obj\Debug\net8.0\ref\prog5.dll
